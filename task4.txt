@@ -1,0 +1,14 @@
+write module names fileoperation
+contain 3 functions 
+	read(filepath,option)--->all,5,line,lines
+	write(filepath,content ,option)--->write,lines
+	append(filepath,newcontent ,option)-->write,lines
+
+develope package called myexperiance
+contatin subpackage (db) which contain 3 function 
+      inserttodb(insert query)
+      update(update uery)
+      delete( Delete query)
+      select ( select query)
+
+containe the prev. module (fileoperation)
