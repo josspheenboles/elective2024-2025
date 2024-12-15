@@ -1,0 +1,4 @@
+write excelmodule
+has 2 functions 
+def read (path,cell,row)
+def write(path,cell,row,value)
